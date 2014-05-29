@@ -1,5 +1,5 @@
 my-mina-asyncweb
 ==========
-fork×Ô https://svn.apache.org/repos/asf/mina/asyncweb/,×ª»»Îªeclipse¹¤³Ì¡£
+forkè‡ª https://svn.apache.org/repos/asf/mina/asyncweb/,è½¬æ¢ä¸ºeclipseå·¥ç¨‹ã€‚
 
 
